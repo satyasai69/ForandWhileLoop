@@ -12,5 +12,10 @@ contract Loop {
                 break;
             }
         }
+        //while loop
+       uint j;
+        while ( j < 10) {
+         j++;
+       }
     }
 }
